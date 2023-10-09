@@ -1,0 +1,18 @@
+.hero-section {
+    background-image: url('https://cdn.evbstatic.com/s3-build/fe/build/images/9751dd52cf8fb822f9f159382310d572-1_mobile_659x494.webp'); /* Replace with your image's filename */
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    text-align: center;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+  
+  }
+
+  .hero-button {
+    background-color: red;
+    color: white;
+  }

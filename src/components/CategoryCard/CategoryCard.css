@@ -1,0 +1,23 @@
+.category-card{
+    border : 1px solid;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 2px 2px;
+}
+
+
+.category-card:hover{
+    box-shadow: 4px 4px;
+}
+
+.category-image {
+    width: 100%;
+    height: 150px;
+    object-fit:cover;
+}
+
+.category-title {
+    font-size:20px;
+    padding: 10px;
+    text-align: center;
+}

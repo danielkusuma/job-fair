@@ -1,0 +1,15 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    top: 0; 
+    width: 100%;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    height: 100px;
+  }
+
+  .logo {
+    height: 50px;
+  }
